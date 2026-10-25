@@ -1,0 +1,31 @@
+RoboDIB Fabrication Notes
+=========================
+
+Board:          # Intelliwater Smart Water Monitoring PCB — Complete
+Generated:      2026-10-25T09:05:54.821174036
+Coordinates:    millimetres, Gerber/Excellon/ODB++/IPC-D-356/CPL seen from the top with Y up;
+                the KiCad board and STEP model in KiCad's frame (Y down).
+
+FAB SPEC
+--------
+Layers:            2
+Base material:     FR-4 TG135
+Total thickness:   1.60 mm
+Outer copper:      1.0 oz
+Inner copper:      0.5 oz
+Surface finish:    HASL
+Mask color:        green
+Silkscreen color:  white
+Via covering:      tented
+Min via class:     0.3/0.4/0.45
+Inner policy:      power-planes
+Outline tolerance: ±0.2mm-regular
+E-test:            flying-probe
+IPC class:         2
+Quantity:          5
+Lead time:         standard
+Vendor:            null
+
+GENERATED FILES
+---------------
+See manifest.json for SHA-256 checksums and a full file index.

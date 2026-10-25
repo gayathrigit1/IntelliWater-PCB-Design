@@ -1,0 +1,154 @@
+{
+  "board" : "# Intelliwater Smart Water Monitoring PCB — Complete",
+  "boardId" : "6addc38c43932a0e008dbaee",
+  "generatedAt" : "2026-10-25T09:05:54.820643495",
+  "generator" : "RoboDIB 1.0",
+  "spec" : {
+    "layerCount" : 2,
+    "totalThicknessMm" : 1.6,
+    "innerLayerPolicy" : "power-planes",
+    "powerPlaneNet" : null,
+    "powerPlaneNets" : [ ],
+    "layerCountExplicit" : false,
+    "baseMaterial" : "FR-4 TG135",
+    "outlineTolerance" : "±0.2mm-regular",
+    "boardStructure" : "rigid",
+    "flexCopperType" : "RA",
+    "flexCoverlayColor" : "yellow",
+    "stiffenerType" : null,
+    "stiffenerThicknessMm" : null,
+    "adhesiveType" : null,
+    "drcPresetIndex" : null,
+    "boardShape" : "rectangle",
+    "shapeSides" : 6,
+    "shapeCornerMm" : 0.0,
+    "outerCopperOz" : 1.0,
+    "innerCopperOz" : 0.5,
+    "surfaceFinish" : "HASL",
+    "maskColor" : "green",
+    "silkColor" : "white",
+    "peelableMask" : false,
+    "maskBetweenSmdPads" : true,
+    "viaCovering" : "tented",
+    "viaPlatingMethod" : "regular",
+    "minViaHoleClass" : "0.3/0.4/0.45",
+    "viaInPad" : false,
+    "edgePlating" : false,
+    "goldFingers" : {
+      "enabled" : false,
+      "bevelDegrees" : 45,
+      "sides" : "top"
+    },
+    "castellatedHoles" : false,
+    "blindSlots" : false,
+    "hipot" : false,
+    "impedanceControl" : {
+      "enabled" : false,
+      "targets" : [ ]
+    },
+    "ulMarking" : {
+      "enabled" : false,
+      "position" : "any",
+      "x" : null,
+      "y" : null
+    },
+    "dateCodeMark" : false,
+    "twoDBarcode" : false,
+    "vendorMark" : "remove",
+    "productType" : "industrial-consumer",
+    "ipcClass" : 2,
+    "panelization" : {
+      "type" : "single",
+      "differentDesigns" : 1,
+      "rows" : 1,
+      "cols" : 1,
+      "mouseBites" : false,
+      "railWidthMm" : 5.0,
+      "vgroove" : false
+    },
+    "quantity" : 5,
+    "leadTime" : "standard",
+    "humidityCard" : false,
+    "confirmProductionFile" : false,
+    "vendorId" : null,
+    "vendorTier" : null,
+    "etest" : "flying-probe"
+  },
+  "drcWarnings" : 11,
+  "drcErrors" : 0,
+  "hardwareFaultsAcknowledged" : 0,
+  "copperShorts" : 0,
+  "files" : [ {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-F_Cu.gbr",
+    "sizeBytes" : 29974,
+    "sha256" : "d51ab12a3c98706a926390b07bb9911532f200471f02e2a5672afcb3fd22af50"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-B_Cu.gbr",
+    "sizeBytes" : 179613,
+    "sha256" : "875c3ceb319ad4126365e40550d6b1696a462c580a7eac527f1f1e9397204443"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-F_SilkS.gbr",
+    "sizeBytes" : 18939,
+    "sha256" : "6c7f41c51f4da0d658b62981d6c2db2cd018508e822e8268e7f1c6e25cf1f46b"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-F_Mask.gbr",
+    "sizeBytes" : 3980,
+    "sha256" : "a308b67ad50749fcef5a72bf7f9770f3794b6f31433ded372fa64a9741238d86"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-F_Paste.gbr",
+    "sizeBytes" : 3057,
+    "sha256" : "bb51775eb9c746887f59d550123f51a8475b1fc22084776acb073a08d57e78fb"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-B_SilkS.gbr",
+    "sizeBytes" : 359,
+    "sha256" : "1ba3ae81deeba604145e2b1fc998d663d9ab86a94e9ddf8943bcf462a503d4b0"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-B_Mask.gbr",
+    "sizeBytes" : 1281,
+    "sha256" : "7a8cf499433dae323c6778142cc0118883db80b16a73d384847a8b59fbf77af2"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-B_Paste.gbr",
+    "sizeBytes" : 358,
+    "sha256" : "534b0b6f4fda1ed0fa0ec0323aac9f18f3bcbfa034ecc56fe567690835fa4ce7"
+  }, {
+    "path" : "gerber/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-Edge_Cuts.gbr",
+    "sizeBytes" : 491,
+    "sha256" : "eccbb649bcce171f3a1dcba4cb1fcaf645aee8c873d272f52036da3d9f7db60e"
+  }, {
+    "path" : "drill/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-PTH.drl",
+    "sizeBytes" : 2115,
+    "sha256" : "83e5d42b8197b10281357ddf4399a68dfc844a755a0882cb2d83d11d0b67b8ad"
+  }, {
+    "path" : "cpl/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-cpl.csv",
+    "sizeBytes" : 2432,
+    "sha256" : "725a1c6d89562f1716715ffcc85566801f7fef6d2cf00b81adcb879967c57ac8"
+  }, {
+    "path" : "bom/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-bom.csv",
+    "sizeBytes" : 1375,
+    "sha256" : "871d41267f90cdcd4831ec0fe15f8435c8ae52a8a9df01ca616849cd7419c044"
+  }, {
+    "path" : "assembly/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-assembly.pdf",
+    "sizeBytes" : 19251,
+    "sha256" : "3fba458a14c3d165972d4e50b42c4a32af6c3096cdd5f475e46068e68a587f01"
+  }, {
+    "path" : "fabrication/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-fabrication.pdf",
+    "sizeBytes" : 24141,
+    "sha256" : "08c4daa83cbca5baae197159730116573b4f306ec1303bc67f3a2f9f3150ca1f"
+  }, {
+    "path" : "step/__Intelliwater_Smart_Water_Monitoring_PCB___Complete.step",
+    "sizeBytes" : 1546816,
+    "sha256" : "a7348f91df63995338fc0267c427ee3670485a7f9135bffa910652e8bef06383"
+  }, {
+    "path" : "step/__Intelliwater_Smart_Water_Monitoring_PCB___Complete-3d-models.txt",
+    "sizeBytes" : 7776,
+    "sha256" : "3fe6229fd909fb01d251440f4216e326d543a76b6ca3830227038a9bd5c1427f"
+  }, {
+    "path" : "kicad/__Intelliwater_Smart_Water_Monitoring_PCB___Complete.kicad_pcb",
+    "sizeBytes" : 93330,
+    "sha256" : "95812c8ad053a8f8edcfdf2e120937e1f19174dbb3a106ed2d7e87d4f32f83be"
+  }, {
+    "path" : "kicad/__Intelliwater_Smart_Water_Monitoring_PCB___Complete.kicad_pro",
+    "sizeBytes" : 3684,
+    "sha256" : "caafd3022864a3d39f375c9bf2bebed40a434e331ea323ee237cb581f83be217"
+  } ]
+}
